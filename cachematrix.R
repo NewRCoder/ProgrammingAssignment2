@@ -3,7 +3,7 @@
 ## Since calculating the inverse of a matrix is an expensive computation, there are 
 ## advantages to caching the inverse of a matrix rather that computing it repeatedly.
 ##
-## The two functions namely; makeCacheMatrix and cacheSolve creates a special "matrix"
+## The two functions namely; makeCacheMatrix and cacheSolve create a special "matrix"
 ## object and compute the inverse of the matrix respectively. 
 
 ## The makeCacheMatrix function creates a special "matrix" object that can cache its inverse. 
